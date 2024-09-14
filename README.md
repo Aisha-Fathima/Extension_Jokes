@@ -20,15 +20,15 @@ A simple and fun Chrome extension that displays random dad jokes. When you click
 
 To get the Dad Jokes Chrome Extension running locally, follow these steps:
 
-    ### 1. Clone the repository
+### 1. Clone the repository
 
-      ```bash
+```bash
          git clone https://github.com/Aisha-Fathima/Extension_Jokes
-      ```
+ ```
 
 ### 2. Navigate into the project directory
 
-cd dad-jokes-extension
+    cd dad-jokes-extension
 
 ### 3. Load the extension in Chrome
 -Open Google Chrome and go to chrome://extensions/.
@@ -39,7 +39,7 @@ cd dad-jokes-extension
 ### 4. . Click the Extension Icon
 Once the extension is installed, you can click on the Dad Jokes icon in your toolbar to see a new joke every time!
 
-### Permissions
+## Permissions
 The extension requires the following permissions:
 
 API Access: The extension needs access to https://icanhazdadjoke.com/ to fetch jokes from the API.
