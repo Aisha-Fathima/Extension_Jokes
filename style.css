@@ -1,0 +1,17 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: #bae8e8;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: #272343;
+    border-radius: 6px;
+    border: 1px solid #9896f1;
+    padding: 10px;
+}
