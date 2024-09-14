@@ -28,3 +28,22 @@ git clone https://github.com/yourusername/dad-jokes-extension.git
 bash
 Copy code
 cd dad-jokes-extension
+```
+
+### 2. Navigate into the project directory
+
+cd dad-jokes-extension
+
+### 3. Load the extension in Chrome
+-Open Google Chrome and go to chrome://extensions/.
+-Enable Developer Mode in the top right corner.
+-Click on the Load unpacked button and select the directory where you cloned this project.
+-You should now see the Dad Jokes extension in your list of installed extensions!
+
+### 4. . Click the Extension Icon
+Once the extension is installed, you can click on the Dad Jokes icon in your toolbar to see a new joke every time!
+
+### Permissions
+The extension requires the following permissions:
+
+API Access: The extension needs access to https://icanhazdadjoke.com/ to fetch jokes from the API.
