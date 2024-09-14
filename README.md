@@ -20,11 +20,11 @@ A simple and fun Chrome extension that displays random dad jokes. When you click
 
 To get the Dad Jokes Chrome Extension running locally, follow these steps:
 
-### 1. Clone the repository
+    ### 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/dad-jokes-extension.git
-```
+      ```bash
+         git clone https://github.com/Aisha-Fathima/Extension_Jokes
+      ```
 
 ### 2. Navigate into the project directory
 
