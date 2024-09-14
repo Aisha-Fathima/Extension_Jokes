@@ -24,10 +24,6 @@ To get the Dad Jokes Chrome Extension running locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/dad-jokes-extension.git
-2. Navigate into the project directory
-bash
-Copy code
-cd dad-jokes-extension
 ```
 
 ### 2. Navigate into the project directory
